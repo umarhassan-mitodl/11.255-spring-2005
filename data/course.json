@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration"
+    ]
+  ],
+  "legacy_uid": "e9e4bd05-fae0-09bf-16fc-00f2e79c9c89",
+  "instructors": {
+    "content": [
+      "65a64cda-d0ab-e200-293e-d7879819472b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dbefb47b-4f89-90a0-79ae-97c59cbe9f87",
+    "website": "11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005"
+  },
+  "course_title": "Negotiation and Dispute Resolution in the Public Sector",
+  "course_description": "This course investigates social conflict and distributional disputes in the public sector. While theoretical aspects of conflict are considered, the focus of the class is on the practice of dispute resolution. Comparisons between unassisted and assisted negotiation are reviewed along with the techniques of facilitation and mediation.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.255",
+  "course_image_thumbnail": {
+    "content": "b496a01e-6f62-e98b-1c8c-1d1baad44d43",
+    "website": "11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "7562527c-bd2c-4e8c-8add-34a2d8915bf6",
+  "site_short_id": "11.255-spring-2005",
+  "site_url_path": "courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005",
+  "title": "Course Metadata"
+}
