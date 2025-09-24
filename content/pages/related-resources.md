@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Related Resources
 uid: 166b618b-5c54-6f24-fe0a-64bed8cb3f70
 ---
-Below are a series of negotiation games used in class to help students explore the topics discussed. Complete versions of these games can be ordered from the [Program on Negotiation](https://www.pon.harvard.edu/) at Harvard University.
+Below are a series of negotiation games used in class to help students explore the topics discussed. Complete versions of these games can be ordered from the {{% resource_link "04b85fb8-e80d-41d4-ae3c-477030257b29" "Program on Negotiation" %}} at Harvard University.
 
 ## Game 1: Appleton-Baker
 
@@ -26,7 +26,7 @@ The advantages and disadvantages of making the first offer can be explored, as w
 
 Advantages and disadvantages of disclosure are also illustrated.
 
-Full scenario available at: [Appleton vs. Baker](https://www.pon.harvard.edu/shop/appleton-vs-baker/).
+Full scenario available at: {{% resource_link "6142a8ce-b322-40a9-8d7b-c2ecea9715f0" "Appleton vs. Baker" %}}.
 
 ## Game 2: Negotiated Development in Redstone
 
@@ -34,7 +34,7 @@ Full scenario available at: [Appleton vs. Baker](https://www.pon.harvard.edu/sh
 
 The grandchild of the founder of the city of Redstone has proposed building an upscale condominium project and has been encouraged by the Redevelopment Authority. Rumor has it that the plans include 120 units, street level commercial businesses, and a parking garage. The City Council is opposed to the project. A Neighborhood Association, including supporters of the "slow-growth" platform on which the Council was elected, is very upset and has articulated its opposition to the plan. In addition, the downzoning laws in Redstone allows the developer of the proposed project an "as of right" density of only 50 units. However, the developer can negotiate for a higher density by offering to exceed the 10% affordable housing requirement set by the city. The City Council has urged that a representative from the Neighborhood Association and the developer meet to try and reach an accord. If no agreement is reached, the dispute will go to the City Council and the Redevelopment Authority (which are at odds).
 
-A variation of this exercise entitled [Ocean Splash](https://www.pon.harvard.edu/shop/ocean-splash/) is also available from the Clearinghouse.
+A variation of this exercise entitled {{% resource_link "6e3536c7-52cb-4a6d-accb-b2a2d9e2b329" "Ocean Splash" %}} is also available from the Clearinghouse.
 
 ### Mechanics
 
@@ -48,7 +48,7 @@ The participants have an opportunity to analyze the differences between distribu
 
 Focusing on issues that are valued differently will allow participants to assess the importance of trading across issues to reach an agreement.
 
-Full scenario available at: [Negotiated Development in Redstone](https://www.pon.harvard.edu/shop/negotiated-development-in-redstone/).
+Full scenario available at: {{% resource_link "a77417fc-440b-47bf-9a52-1a76548b8030" "Negotiated Development in Redstone" %}}.
 
 ## Game 3: Three-Party Coalition Exercise
 
@@ -74,7 +74,7 @@ When played by several groups at the same time, the comparison of outcomes is in
 
 The exercise can also be used to raise questions about the basis for arbitrating multi-party disputes.
 
-Full scenario available at: [Three-Party Coalition Exercise](https://www.pon.harvard.edu/shop/three-party-coalition-exercise/).
+Full scenario available at: {{% resource_link "f9891601-b844-4879-8e3e-6c805b35d907" "Three-Party Coalition Exercise" %}}.
 
 ## Game 4: Harborco
 
@@ -104,7 +104,7 @@ The need for a neutral "process manager" of some sort is also illustrated, as th
 
 The advantages of caucusing can be explored. In some cases, players will initiate caucuses; in others, they will avoid private caucusing.
 
-Full scenario available at: [Harborco](https://www.pon.harvard.edu/shop/harborco/).
+Full scenario available at: {{% resource_link "d6c00755-4702-412c-bb64-705b44e3f7a8" "Harborco" %}}.
 
 ## Game 5: Dirty Stuff II
 
@@ -132,7 +132,7 @@ Caucusing can lead to the formation of blocking coalitions. The effect of caucus
 
 The usefulness of a single negotiating text is illustrated. This gives parties a focal point for discussion and a tool for recording the evolving agreement. This can clarify differences and help parties structure packages or trade-offs more creatively.
 
-Full scenario available at: [DirtyStuff II](https://www.pon.harvard.edu/shop/dirtystuff-ii/).
+Full scenario available at: {{% resource_link "f31d5fff-a674-4695-8acd-2dab565a1deb" "DirtyStuff II" %}}.
 
 ## Game 6: Carson Extension
 
@@ -150,7 +150,7 @@ Parties that reveal their true interests do not necessarily do better than those
 
 The need for a neutral "process manager" of some sort is also illustrated, as the participants must structure their discussions.
 
-Full scenario available at: [Carson Extension](https://www.pon.harvard.edu/shop/carson-extension/).
+Full scenario available at: {{% resource_link "7446baf3-2fc3-48e9-a941-957f4a946beb" "Carson Extension" %}}.
 
 ## Game 7: Westville
 
@@ -177,7 +177,7 @@ Three issues must be negotiated. Because the parties' priorities differ, the pla
 - Sources of mediators' influence.
 - Activist vs. neutral mediator roles.
 
-Full scenario available at: [Westville](https://www.pon.harvard.edu/shop/westville-mediation-strategies-in-community-planning/).
+Full scenario available at: {{% resource_link "9dec708d-da91-4efc-a3d4-5375cbb38e92" "Westville" %}}.
 
 ## Game 8: River Bend
 
@@ -189,4 +189,4 @@ Representatives of CC Gas and of the River Bend band (including an advisor from 
 
 This case is designed to highlight issues involved in negotiating with complex parties, including intra-team preparation, analysis of constituency interests, management of internal dissension, clarification of authority and roles, and agenda-setting and sequencing. Other teaching points that may emerge include the utility of option-generation before commitment, the advantages and limitations of "objective" criteria, the tendency toward reactive devaluation, and the importance of clear, binding commitments.
 
-Full scenario available at: [River Bend](https://www.pon.harvard.edu/shop/river-bend/).
+Full scenario available at: {{% resource_link "bf5d363d-7c04-4ba2-b410-d30cdea2553d" "River Bend" %}}.
