@@ -27,6 +27,7 @@
     "website": "11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005"
   },
   "course_title": "Negotiation and Dispute Resolution in the Public Sector",
+  "hide_download": true,
   "course_description": "This course investigates social conflict and distributional disputes in the public sector. While theoretical aspects of conflict are considered, the focus of the class is on the practice of dispute resolution. Comparisons between unassisted and assisted negotiation are reviewed along with the techniques of facilitation and mediation.\n",
   "department_numbers": [
     "11"
@@ -37,6 +38,7 @@
     "content": "b496a01e-6f62-e98b-1c8c-1d1baad44d43",
     "website": "11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments"

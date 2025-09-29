@@ -5,6 +5,8 @@ description: This resource discusses about how to create joint gains, the mutual
 file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/2b2a050481f64a6bee06c561fbce7da4_l7_redstone_debr.pdf
 file_size: 14847
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

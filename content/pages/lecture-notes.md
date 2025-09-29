@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains a selection of lecture notes and teaching materials
   that supplement the in-class negotiation games and activities.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -9,7 +11,7 @@ title: Lecture Notes
 uid: c510740e-2d6e-ce80-2834-2d7da0468924
 ---
 
-Below is a selection of lecture notes and teaching materials that supplement the in-class negotiation games and activities. Full sets of teaching materials are provided by the {{% resource_link "5a340aab-57cd-4fe4-b8fd-06accfff0af9" "Program on Negotiation" %}} at Harvard University.
+Below is a selection of lecture notes and teaching materials that supplement the in-class negotiation games and activities. Full sets of teaching materials are provided by the [Program on Negotiation](http://www.pon.harvard.edu/) at Harvard University.
 
 Lecture 13 - Tasks of the Facilitator ({{% resource_link c0f1088e-80d5-1c79-e2a2-074be59f928c "PDF" %}})
 

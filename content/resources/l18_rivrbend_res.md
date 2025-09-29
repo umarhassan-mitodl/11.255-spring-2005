@@ -4,6 +4,8 @@ description: A listing of four issues regarding the Outcome of River Bend Negoti
 file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/f7c11ce85443ac04b18f92c680d90dff_l18_rivrbend_res.pdf
 file_size: 67898
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

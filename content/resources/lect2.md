@@ -6,6 +6,8 @@ description: 'A discussion on: the conventional wisdom about negotiation, assump
 file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/c0976ca4433e720819da9a6e390be9d7_lect2.pdf
 file_size: 40138
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

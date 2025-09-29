@@ -5,6 +5,8 @@ description: This resource discusses two packages based on the scientific resear
 file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/52a672b699c6b81ab08c5c4c41c2e6b6_lec14_ceoutcomes.pdf
 file_size: 97384
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
