@@ -5,8 +5,6 @@ description: This resource is a diagrammatic representation of the functions of 
 file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/8169c0957d686ada1cc076c3820790de_lect6_conflict.pdf
 file_size: 86766
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

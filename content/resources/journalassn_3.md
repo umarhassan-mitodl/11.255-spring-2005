@@ -5,8 +5,6 @@ description: This resource contains five questions based on Harborco simulation,
 file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/0dee8e477e5d62f04e917cc8d9b60a1e_journalassn_3.pdf
 file_size: 32791
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains a selection of lecture notes and teaching materials
   that supplement the in-class negotiation games and activities.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
